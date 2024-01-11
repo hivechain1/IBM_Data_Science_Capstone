@@ -9,7 +9,7 @@ There are a total of 40 points possible for the final assessment, and you will b
 The main grading criteria will be:
 
 >Uploaded the URL of your GitHub repository including all the completed notebooks and Python files (1 pt)
->
+
 Uploaded your completed presentation in PDF format (1 pt)
 
 Completed the required Executive Summary slide (1 pt)
