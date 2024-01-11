@@ -36,7 +36,7 @@ Completed the required Conclusion slide (1 pts)
 
 Applied your creativity to improve the presentation beyond the template (1 pts)
 
-Displayed any innovative insights (1 pts)>
+>Displayed any innovative insights (1 pts)
 
 You will not be judged on:
 
